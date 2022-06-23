@@ -3,8 +3,6 @@ Console.WriteLine("***** Fun with Method Overloading *****");
 Console.WriteLine($"Summ: \t{Calculator.Add(10, 10)}");
 Console.WriteLine($"Summ: \t{Calculator.Add(4.6, 7.9)}");
 Console.WriteLine($"Summ: \t{Calculator.Add(900_000_000, 900_000_000_000)}");
-
-
 #endregion
 public class Calculator
 {
